@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">VENOM</h1>
+<h1 align="center">ANZA MAHWASANE</h1>
 
 <div align="center">
 
