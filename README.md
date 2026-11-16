@@ -18,13 +18,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="./venom-banner.png" width="100%" alt="VENOM Hacker Banner"/>
+  <img src="./AnzaMahwasaneSt10524165-banner.png" width="100%" alt="AnzaMahwasaneSt10524165 Hacker Banner"/>
 </div>
-
-
-
-
-<div align="center">
 
 # `root@ANZA MAHWASANE:~#`
 
