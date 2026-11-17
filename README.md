@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   <br/>
 
-  <h2>root@ANZA MAHWASANE:~#</h2>
+  <h2> ANZA MAHWASANE /h2>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESS+GRANTED...;WELCOME+TO+MY+DIGITAL+WORLD;SOFTWARE+DEVELOPER+IN+PROGRESS;CODE.+BUILD.+BREAK.+REPEAT." />
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 </div>
 
-## `01 // ABOUT_ME`
+## ABOUT ME
 
 ```bash
 ┌──(ANZA MAHWASANE㉿localhost)-[~]
@@ -47,7 +47,7 @@ Currently  : Learning, building & experimenting
 Mission    : Turning ideas into functional software
 ```
 
-## `02 // TECH_STACK`
+## TECH_STACK
 
 <div align="center">
 
@@ -55,7 +55,7 @@ Mission    : Turning ideas into functional software
 
 </div>
 
-## `03 // GITHUB_STATS`
+## GITHUB_STATS
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Mission    : Turning ideas into functional software
 
 </div>
 
-## `04 // CONTRIBUTION_ACTIVITY`
+## CONTRIBUTION_ACTIVITY
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Mission    : Turning ideas into functional software
 
 </div>
 
-## `05 // SYSTEM_STATUS`
+## SYSTEM_STATUS
 
 ```text
 [ ONLINE ]  Learning new technologies
@@ -86,7 +86,7 @@ Mission    : Turning ideas into functional software
 [ LOADING ] Becoming a better developer...
 ```
 
-## `06 // CURRENT_FOCUS`
+## CURRENT_FOCUS
 
 ```bash
 > Improving Java programming skills
