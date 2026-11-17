@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   <br/>
 
-  <h2> ANZA MAHWASANE /h2>
+
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=ACCESS+GRANTED...;WELCOME+TO+MY+DIGITAL+WORLD;SOFTWARE+DEVELOPER+IN+PROGRESS;CODE.+BUILD.+BREAK.+REPEAT." />
 
